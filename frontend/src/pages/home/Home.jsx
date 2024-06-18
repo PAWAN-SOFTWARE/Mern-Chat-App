@@ -7,6 +7,6 @@ const Home = () => {
 			<Sidebar />
 			<MessageContainer />
 		</div>
-	);
+	);  
 };
 export default Home;
